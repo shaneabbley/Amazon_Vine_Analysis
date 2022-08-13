@@ -20,4 +20,4 @@ In this module we analyzed the effect of Amazon Vine on review quality and quant
   * 60.0% of reviews had five stars
 
 ### Analysis
-
+Although the percentage of five star reviews are very similar between Amazon Vine users and non Amazon Vine users, two other flaws in our experiment were observed. Firstly, we should have analyzed data across all amazon purchases instead of solely on instruments. Analyzing across one product axis increases our risk of error. The other major flaw with this experiment is that the sample size of Amazon Vine user reviews is much too small. A total of 59 reviews is not going to be substantial enough to draw true conclusions. I did not notice any positivity bias from Amazon Vine reviewers because the five star review percentage is actually higher in non Amazon Vine reviewers. That being said, we did not analyze enough Amazon Vine reviewer data to say with certainty.
